@@ -8,13 +8,13 @@ Welcome to the SAI Calculator repository — A fundamental fragment of a greater
 Clone the repository:
 
 ( ```bash
-git clone https://github.com/your-username/calculator_project.git )
+git clone https://github.com/DaFlames/S.A.I-Calculator.git )
 
 # Usage
 
 run the calculator script
 (
-    python src/calculator.py
+    python SAI Calc/S.A.I Calculator.py
 
 )
 
